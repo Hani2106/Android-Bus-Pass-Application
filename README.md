@@ -93,35 +93,35 @@ An **APK build** is included for quick installation:
 ## 📸 Screenshots
 
 Figure - App interface
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/86e873f3-3d87-49dd-bad3-f2b9b6c3fd20" />
-<img width="295" height="582" alt="image" src="https://github.com/user-attachments/assets/1dcdb09b-bcaa-4ab9-9ba1-7ed5be53dee1" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/86e873f3-3d87-49dd-bad3-f2b9b6c3fd20" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1dcdb09b-bcaa-4ab9-9ba1-7ed5be53dee1" />
 
 Figure – Login screen
-<img width="278" height="523" alt="image" src="https://github.com/user-attachments/assets/64a0c7a4-c6a8-48ae-8d49-92b24742bdda" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/64a0c7a4-c6a8-48ae-8d49-92b24742bdda" />
 
 Figure – Home screen
-<img width="266" height="515" alt="image" src="https://github.com/user-attachments/assets/745edad0-3f46-4206-82d7-2c22d4dd4279" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/745edad0-3f46-4206-82d7-2c22d4dd4279" />
 
 Figure – Registration form
-<img width="266" height="561" alt="image" src="https://github.com/user-attachments/assets/a7afc1e1-2180-4ceb-988f-fe415c5e5abe" />
-<img width="266" height="561" alt="image" src="https://github.com/user-attachments/assets/0c939795-82f1-49e9-b125-5bd79d152672" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a7afc1e1-2180-4ceb-988f-fe415c5e5abe" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/0c939795-82f1-49e9-b125-5bd79d152672" />
 
 Figure – Notification screen
-<img width="273" height="578" alt="image" src="https://github.com/user-attachments/assets/6f23ac7f-0a50-46d0-8257-d261f4be3cd3" />
-<img width="274" height="579" alt="image" src="https://github.com/user-attachments/assets/20424766-a5ce-43bc-b3e7-ba5ffc507cd5" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6f23ac7f-0a50-46d0-8257-d261f4be3cd3" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/20424766-a5ce-43bc-b3e7-ba5ffc507cd5" />
 
 Figure – E-Pass with QR
-<img width="274" height="578" alt="image" src="https://github.com/user-attachments/assets/e7955fd3-be72-4d3e-8d22-0855c9e549be" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/e7955fd3-be72-4d3e-8d22-0855c9e549be" />
 
 Figure – Google Maps route viewer
-<img width="274" height="579" alt="image" src="https://github.com/user-attachments/assets/3b6c646a-9fb8-4f88-9895-81452368b4c2" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3b6c646a-9fb8-4f88-9895-81452368b4c2" />
 
 Figure – Profile edit / delete
-<img width="274" height="579" alt="image" src="https://github.com/user-attachments/assets/fb9d392b-6289-41c0-b349-566cc99098f6" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fb9d392b-6289-41c0-b349-566cc99098f6" />
 
 Figure - Firebase 
-<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/995edeaa-e5dc-4ecd-a57e-935ae8fb3804" />
-<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/2ea8412c-5a0d-439a-9a5c-c9554d02b5ae" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/995edeaa-e5dc-4ecd-a57e-935ae8fb3804" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2ea8412c-5a0d-439a-9a5c-c9554d02b5ae" />
 
 ---
 
