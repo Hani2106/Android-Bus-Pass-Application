@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Permissions needed for Maps and Notifications -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BusPassApplication"
+        tools:targetApi="31">
+
+        <!-- This is the API Key for Google Maps. Make sure your key is here. -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="YOUR_API_KEY" />
+
+        <!-- This is the LAUNCHER activity. It will open first. -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- This is the main hub activity. -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+
+        <!-- Declaration for the Registration screen -->
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="false" />
+
+        <!-- Declaration for the Status screen -->
+        <activity
+            android:name=".StatusActivity"
+            android:exported="false" />
+
+        <!-- Declaration for the Notifications screen -->
+        <activity
+            android:name=".NotificationsActivity"
+            android:exported="false" />
+
+        <!-- Declaration for the Profile screen -->
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+
+        <!-- Declaration for the Map screen -->
+        <activity
+            android:name=".MapActivity"
+            android:exported="false"
+            android:label="Bus Route Map"/>
+
+    </application>
+
+</manifest>
+

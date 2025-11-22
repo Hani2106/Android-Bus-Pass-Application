@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The Bus Image, scaled to fill the screen -->
+    <item>
+        <bitmap
+            android:src="@drawable/bus_background"
+            android:gravity="center"
+            android:alpha="0.3" /> <!-- Make the image a bit faded -->
+    </item>
+    <!-- A semi-transparent white color overlay to make text more readable -->
+    <item>
+        <color android:color="#A0FFFFFF" /> <!-- 60% transparent white -->
+    </item>
+</layer-list>
+

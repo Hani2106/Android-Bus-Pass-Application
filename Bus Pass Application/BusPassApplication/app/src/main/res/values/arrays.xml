@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="validity_options">
+        <item>1 Month</item>
+        <item>3 Months</item>
+        <item>6 Months</item>
+    </string-array>
+</resources>
