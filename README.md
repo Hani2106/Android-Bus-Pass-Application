@@ -1,4 +1,4 @@
-<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/29454614-080f-4581-9578-b0ef10b85d2f" /># 🚌 Bus Pass Application – Android (Kotlin + Firebase)
+# 🚌 Bus Pass Application – Android (Kotlin + Firebase)
 
 The **Bus Pass Application** is an Android-based mobile solution designed to digitize and simplify the traditional bus-pass issuing process. Instead of standing in queues and completing paperwork manually, users can easily **register, apply for a bus pass, track status, view bus routes, receive notifications, and access their digital pass with QR code** — all from their smartphone.
 
@@ -93,7 +93,7 @@ An **APK build** is included for quick installation:
 ## 📸 Screenshots
 
 Figure - App interface
-<img width="295" height="587" alt="image" src="https://github.com/user-attachments/assets/86e873f3-3d87-49dd-bad3-f2b9b6c3fd20" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/86e873f3-3d87-49dd-bad3-f2b9b6c3fd20" />
 <img width="295" height="582" alt="image" src="https://github.com/user-attachments/assets/1dcdb09b-bcaa-4ab9-9ba1-7ed5be53dee1" />
 
 Figure – Login screen
